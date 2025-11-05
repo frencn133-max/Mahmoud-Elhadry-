@@ -1,0 +1,7 @@
+{
+  "name": "Mahmoud-Elhadry AI Studio",
+  "description": "A professional, integrated AI toolkit supporting Arabic and English. It includes AI Image Generation, an advanced Image Editor, Text-to-Speech, Image-to-Text (OCR), and an AI Chat interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
